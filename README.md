@@ -16,7 +16,7 @@
 ![s700](https://github.com/fengfeilong0529/FigJRTTScreenAdapter/blob/master/s700.png "s700")
 
 
-机型二（rx3288）：
+机型二（rk3288）：
 - 分辨率：1024 * 600
 - density：1
 - dpi：160
